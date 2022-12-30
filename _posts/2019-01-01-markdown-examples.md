@@ -1,6 +1,8 @@
 ---
 title:  "Volunteering at Engineers without Borders, Technion chapter"
+mathjax: true
 layout: post
+categories: media
 ---
 
 ![Flower](https://github.com/bmanjaree/bmanjaree.github.io/blob/master/Screenshot%202022-12-30%20at%203.20.17%20PM.png)
