@@ -17,8 +17,8 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Manjaree_Binjolkar_Resume.pdf", title: "Resume" }
-  - {file: "index.html", }
-  - {file: "README.md"}
+  - {file: "index.html", title: "index" }
+  - {file: "README.md", , title: "Readme" }
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:manjaree@uw.edu"}
