@@ -5,9 +5,12 @@ title: ""
 
 I'm a Ph.D. student in the [Civil and Environmental Engineering Department](https://cee.princeton.edu) at Princeton University, NJ. My academic journey includes dual masters degrees from the [Applied Mathematics Department](https://amath.washington.edu) and [Civil and Environmental Engineering Department](https://www.ce.washington.edu) at the University of Washington, Seattle, WA. I completed my bachelor's degree in the [Civil and Environmental Engineering Department](https://cee.technion.ac.il/en/) at the Israel Institute of Technology - Technion. 
 
+
 Currently, I'm working in Professor [Gabriele Villarini's research group](https://villarini.scholar.princeton.edu/research-group), focusing on advancing data-driven approaches for hydrologic modeling. My research aims to improve predictions and better approximate extreme climate events related to hydrology. 
 
-## Research Interests My work centers on enhancing hydrological modeling through innovative computational and data-driven approaches. My primary research interests include: 
+
+Research Interests My work centers on enhancing hydrological modeling through innovative computational and data-driven approaches. My primary research interests include: 
+
 
 1. Improving hydrological numerical models by applying optimization methods to numerical techniques, enhancing both accuracy and computational efficiency.
 
