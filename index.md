@@ -9,7 +9,7 @@ I'm a Ph.D. student in the [Civil and Environmental Engineering Department](http
 Currently, I'm working in Professor [Gabriele Villarini's research group](https://villarini.scholar.princeton.edu/research-group), focusing on advancing data-driven approaches for hydrologic modeling. My research aims to improve predictions and better approximate extreme climate events related to hydrology. 
 
 
-Research Interests My work centers on enhancing hydrological modeling through innovative computational and data-driven approaches. My primary research interests include: 
+My work centers on enhancing hydrological modeling through innovative computational and data-driven approaches. My primary research interests include: 
 
 
 1. Improving hydrological numerical models by applying optimization methods to numerical techniques, enhancing both accuracy and computational efficiency.
@@ -20,3 +20,4 @@ Research Interests My work centers on enhancing hydrological modeling through in
 
 
 Through this research, I aim to contribute to the development of more accurate, efficient, and comprehensive hydrological models that can better inform water resource management and climate adaptation strategies.
+
